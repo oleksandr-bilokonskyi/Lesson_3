@@ -1,0 +1,39 @@
+.name {
+    color: red;
+}
+
+.text {
+    color: green;
+}
+
+.zmist {
+    color: blue;
+}
+
+.spisok {
+    color: darkorchid;
+}
+
+a {
+    color: rgb(42, 21, 117);
+}
+
+.skladcolor {
+    color: darkred;
+}
+
+.skladinfo {
+    color: rgb(110, 131, 35);
+}
+
+.ostrova {
+    color: crimson;
+}
+
+.zagal-opus {
+    color: red;
+}
+
+.rozdil {
+    color: blue;
+}
